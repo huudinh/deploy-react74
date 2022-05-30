@@ -1,7 +1,8 @@
 function App() {
   return (
     <div>
-      Hello world!
+      Hello world! <br/>
+      React 74
     </div>
   );
 }
