@@ -20,7 +20,7 @@ export default App;
 // 5. Setup Github Repo
 // git init
 // git add .
-// git commit - "first commit"
+// git commit -m "first commit"
 // git branch -M main
 // git remote add origin https://github.com/huudinh/deploy-react74.git
 // git push -u origin main
